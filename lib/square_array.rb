@@ -4,5 +4,5 @@ def square_array(numbers)
 numbers.length.times do |index|
   new_array.push(numbers[index] + 1)
 end
-new_array()
+new_array
 end
